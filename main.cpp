@@ -1,7 +1,7 @@
 #include <iostream>
 
 int CountSimilarBytes(long long int byte);
-
+//one more thing
 void SwapBytes(unsigned short* b);
 
 unsigned char GetMaxByte(const unsigned int* ar, size_t size);
