@@ -6,7 +6,7 @@ void SwapBytes(unsigned short* b);
 
 unsigned char GetMaxByte(const unsigned int* ar, size_t size);
 
-
+//ok what the hell is wrong with my git shit
 int main()
 {
 
